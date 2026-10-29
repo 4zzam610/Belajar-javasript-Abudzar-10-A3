@@ -138,9 +138,8 @@ for (let b = 1; b <= 10; b++) {
   }
 }
 
-let kapal = 1
+let kapal = 1;
 do {
-  console.log("kapal" + kapal "dalam keadaan baik")
-  kapal++
-}
-while (kapal <= 10)
+  console.log(`kapal ${kapal} dalam keadaan baik`);
+  kapal++;
+} while (kapal <= 10);
