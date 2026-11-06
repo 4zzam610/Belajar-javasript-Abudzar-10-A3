@@ -5,7 +5,7 @@
 // ==============================================================================
 // Nama Siswa  : Azzam alghifary
 // Kelas       : 10A
-// Tanggal     : 5 Oktober 2023
+// Tanggal     :  jumat 5 Oktober 2023
 //
 // PETUNJUK:
 // 1. Baca dengan seksama setiap narasi studi kasus dan instruksi yang diberikan.
